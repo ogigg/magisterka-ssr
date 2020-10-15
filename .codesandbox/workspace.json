@@ -1,0 +1,41 @@
+{
+  "preview": [
+    {
+      "views": [
+        {
+          "id": "codesandbox.browser"
+        },
+        {
+          "id": "codesandbox.browser",
+          "closeable": true,
+          "options": {
+            "url": "/___graphql",
+            "title": "GraphiQL"
+          }
+        },
+        {
+          "id": "codesandbox.browser",
+          "options": {
+            "port": 41151,
+            "url": "https://n7k9m-41151.sse.codesandbox.io"
+          },
+          "closeable": true
+        }
+      ]
+    },
+    {
+      "open": true,
+      "views": [
+        {
+          "id": "codesandbox.terminal"
+        },
+        {
+          "id": "codesandbox.console"
+        },
+        {
+          "id": "codesandbox.problems"
+        }
+      ]
+    }
+  ]
+}
